@@ -43,6 +43,7 @@
 
 <br>
 
+<!--
 <div align=center>
 	<h3>🔍 Github Stats 🔍</h3>
 </div>
@@ -50,7 +51,7 @@
     
 ![MinYeongPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinYeongPark&show_icons=true&theme=merko)   
 </div>
-
+-->
 
 
 
