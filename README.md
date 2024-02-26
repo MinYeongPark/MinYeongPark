@@ -29,14 +29,11 @@
 </div>
 
 <div align=center>
-	<h3>🎨 Blog & Portfolio 🎨</h3>
+	<h3>🎨 Developer Blog 🎨</h3>
 </div>
 <div align=center>
     <a href="https://velog.io/@godqhrals">
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-    </a>
-	<a href="https://fragrant-sunset-677.notion.site/35837573e647478c8937e1e9e24fceb8?pvs=4">
-        <img src="https://img.shields.io/badge/Portfolio-2F8D46?style=for-the-badge&logo=Micro.blog&logoColor=white" />
     </a>
 	<br>
 </div>
