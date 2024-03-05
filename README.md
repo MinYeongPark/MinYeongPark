@@ -35,7 +35,7 @@
     <a href="https://velog.io/@godqhrals">
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
     </a>
-    <a href="https://fragrant-sunset-677.notion.site/e76bd8c20fa24c38b083dcd56f911650">
+    <a href="https://harmless-swing-f79.notion.site/724c3994d8f649e08e21ab309d62495c?pvs=4">
         <img src="https://img.shields.io/badge/Portfolio-2F8D46?style=for-the-badge&logo=Micro.blog&logoColor=white" />
     </a>
 	<br>
